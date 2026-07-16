@@ -1,0 +1,1 @@
+Olá, tudo bem? Esse gerador de senha foi utilizado Python puro para demonstrar meu leve conhecimento com essa linguagem. Ainda não possui uma interface gráfica, nada muito elaborado, mas, futuramente tenho interesse em dar continuidade com esse projeto.
